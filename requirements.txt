@@ -1,0 +1,6 @@
+openai
+gradio
+langchain
+python-docx
+chromadb
+tiktoken
