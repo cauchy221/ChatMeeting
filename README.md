@@ -8,5 +8,5 @@
 
 Hugging Face Spaces 体验：[点我试试](https://huggingface.co/spaces/Iris/ChatMeeting)
 
-![example](.\example.png)
+![example](C:\Users\86139\Desktop\桌面\MYGIT\ChatMeeting\example.png)
 
