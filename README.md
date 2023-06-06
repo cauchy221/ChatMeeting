@@ -6,11 +6,7 @@
 
 使用Gradio部署~
 
-Hugging Face Spaces 体验：
+Hugging Face Spaces 体验：[点我试试](https://huggingface.co/spaces/Iris/ChatMeeting)
 
-```html
-<iframe src="https://huggingface.co/spaces/Iris/ChatMeeting"></iframe>
-```
-
-![image-20230606182716722](C:\Users\86139\AppData\Roaming\Typora\typora-user-images\image-20230606182716722.png)
+![](C:\Users\86139\Desktop\image-20230606182716722.png)
 
